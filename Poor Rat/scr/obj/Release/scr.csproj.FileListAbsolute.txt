@@ -1,0 +1,9 @@
+C:\Users\MTOBOLOV\Google Drive\Other\Code\KrankType\scr\bin\Release\scr.exe.config
+C:\Users\MTOBOLOV\Google Drive\Other\Code\KrankType\scr\bin\Release\scr.exe
+C:\Users\MTOBOLOV\Google Drive\Other\Code\KrankType\scr\bin\Release\scr.pdb
+C:\Users\MTOBOLOV\Google Drive\Other\Code\KrankType\scr\obj\Release\scr.csprojResolveAssemblyReference.cache
+C:\Users\MTOBOLOV\Google Drive\Other\Code\KrankType\scr\obj\Release\scr.Properties.Resources.resources
+C:\Users\MTOBOLOV\Google Drive\Other\Code\KrankType\scr\obj\Release\scr.csproj.GenerateResource.Cache
+C:\Users\MTOBOLOV\Google Drive\Other\Code\KrankType\scr\obj\Release\scr.exe
+C:\Users\MTOBOLOV\Google Drive\Other\Code\KrankType\scr\obj\Release\scr.pdb
+C:\Users\MTOBOLOV\Google Drive\Other\Code\KrankType\scr\obj\Release\scr.Form1.resources

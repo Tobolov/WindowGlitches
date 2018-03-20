@@ -1,0 +1,18 @@
+C:\Users\MTOBOLOV\Google Drive\Other\Code\KrankType\Krank Type\bin\Release\Krank Type.exe.config
+C:\Users\MTOBOLOV\Google Drive\Other\Code\KrankType\Krank Type\bin\Release\Krank Type.exe
+C:\Users\MTOBOLOV\Google Drive\Other\Code\KrankType\Krank Type\bin\Release\Krank Type.pdb
+C:\Users\MTOBOLOV\Google Drive\Other\Code\KrankType\Krank Type\bin\Release\Gma.System.MouseKeyHook.dll
+C:\Users\MTOBOLOV\Google Drive\Other\Code\KrankType\Krank Type\obj\Release\Krank Type.exe
+C:\Users\MTOBOLOV\Google Drive\Other\Code\KrankType\Krank Type\obj\Release\Krank Type.pdb
+C:\Users\MTOBOLOV\Google Drive\Other\Code\KrankType\Krank Type\obj\Release\Krank Type.csprojResolveAssemblyReference.cache
+C:\Users\C\Google Drive\Other\Code\KrankType\Krank Type\bin\Release\aduz.cab
+C:\Users\C\Google Drive\Other\Code\KrankType\Krank Type\bin\Release\Krank Type.exe.config
+C:\Users\C\Google Drive\Other\Code\KrankType\Krank Type\bin\Release\Krank Type.exe
+C:\Users\C\Google Drive\Other\Code\KrankType\Krank Type\bin\Release\Krank Type.pdb
+C:\Users\C\Google Drive\Other\Code\KrankType\Krank Type\bin\Release\Gma.System.MouseKeyHook.dll
+C:\Users\C\Google Drive\Other\Code\KrankType\Krank Type\obj\Release\Krank Type.csprojResolveAssemblyReference.cache
+C:\Users\C\Google Drive\Other\Code\KrankType\Krank Type\obj\Release\Krank Type.exe
+C:\Users\C\Google Drive\Other\Code\KrankType\Krank Type\obj\Release\Krank Type.pdb
+C:\Users\C\Google Drive\Other\Code\KrankType\Krank Type\bin\Release\glk.exe
+C:\Users\C\Google Drive\Other\Code\KrankType\Krank Type\bin\Release\suz.cab
+C:\Users\MTOBOLOV\Google Drive\Other\Code\KrankType\Krank Type\bin\Release\glk.exe

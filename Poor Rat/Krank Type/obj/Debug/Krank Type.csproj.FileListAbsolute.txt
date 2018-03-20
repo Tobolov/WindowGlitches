@@ -1,0 +1,19 @@
+C:\Users\MTOBOLOV\Google Drive\Other\Code\KrankType\Krank Type\bin\Debug\Krank Type.exe.config
+C:\Users\MTOBOLOV\Google Drive\Other\Code\KrankType\Krank Type\bin\Debug\Krank Type.exe
+C:\Users\MTOBOLOV\Google Drive\Other\Code\KrankType\Krank Type\bin\Debug\Krank Type.pdb
+C:\Users\MTOBOLOV\Google Drive\Other\Code\KrankType\Krank Type\obj\Debug\Krank Type.csprojResolveAssemblyReference.cache
+C:\Users\MTOBOLOV\Google Drive\Other\Code\KrankType\Krank Type\obj\Debug\Krank Type.exe
+C:\Users\MTOBOLOV\Google Drive\Other\Code\KrankType\Krank Type\obj\Debug\Krank Type.pdb
+C:\Users\MTOBOLOV\Google Drive\Other\Code\KrankType\Krank Type\bin\Debug\Gma.System.MouseKeyHook.dll
+C:\Users\C\Google Drive\Other\Code\KrankType\Krank Type\bin\Debug\Krank Type.exe.config
+C:\Users\C\Google Drive\Other\Code\KrankType\Krank Type\obj\Debug\Krank Type.exe
+C:\Users\C\Google Drive\Other\Code\KrankType\Krank Type\obj\Debug\Krank Type.pdb
+C:\Users\C\Google Drive\Other\Code\KrankType\Krank Type\bin\Debug\aduz.cab
+C:\Users\C\Google Drive\Other\Code\KrankType\Krank Type\bin\Debug\Krank Type.exe
+C:\Users\C\Google Drive\Other\Code\KrankType\Krank Type\bin\Debug\Krank Type.pdb
+C:\Users\C\Google Drive\Other\Code\KrankType\Krank Type\bin\Debug\Gma.System.MouseKeyHook.dll
+C:\Users\C\Google Drive\Other\Code\KrankType\Krank Type\obj\Debug\Krank Type.csprojResolveAssemblyReference.cache
+C:\Users\MTOBOLOV\Google Drive\Other\Code\KrankType\Krank Type\bin\Debug\glk.exe
+C:\Users\C\Google Drive\Other\Code\KrankType\Krank Type\bin\Debug\glk.exe
+C:\Users\C\Google Drive\Other\Code\KrankType\Krank Type\bin\Debug\suz.cab
+C:\Users\MTOBOLOV\Google Drive\Other\Code\KrankType\Krank Type\bin\Debug\nmf.exe

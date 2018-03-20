@@ -1,0 +1,10 @@
+C:\Users\MTOBOLOV\Google Drive\Other\Code\KrankType\cam\bin\Release\cam.exe.config
+C:\Users\MTOBOLOV\Google Drive\Other\Code\KrankType\cam\bin\Release\cam.exe
+C:\Users\MTOBOLOV\Google Drive\Other\Code\KrankType\cam\bin\Release\cam.pdb
+C:\Users\MTOBOLOV\Google Drive\Other\Code\KrankType\cam\bin\Release\WebCam_Capture.dll
+C:\Users\MTOBOLOV\Google Drive\Other\Code\KrankType\cam\obj\Release\cam.csprojResolveAssemblyReference.cache
+C:\Users\MTOBOLOV\Google Drive\Other\Code\KrankType\cam\obj\Release\cam.Form1.resources
+C:\Users\MTOBOLOV\Google Drive\Other\Code\KrankType\cam\obj\Release\cam.Properties.Resources.resources
+C:\Users\MTOBOLOV\Google Drive\Other\Code\KrankType\cam\obj\Release\cam.csproj.GenerateResource.Cache
+C:\Users\MTOBOLOV\Google Drive\Other\Code\KrankType\cam\obj\Release\cam.exe
+C:\Users\MTOBOLOV\Google Drive\Other\Code\KrankType\cam\obj\Release\cam.pdb
