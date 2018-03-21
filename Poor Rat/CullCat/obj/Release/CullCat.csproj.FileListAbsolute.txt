@@ -1,6 +1,0 @@
-C:\Users\MTOBOLOV\Google Drive\Other\Code\KrankType\CullCat\bin\Release\CullCat.exe.config
-C:\Users\MTOBOLOV\Google Drive\Other\Code\KrankType\CullCat\bin\Release\CullCat.exe
-C:\Users\MTOBOLOV\Google Drive\Other\Code\KrankType\CullCat\bin\Release\CullCat.pdb
-C:\Users\MTOBOLOV\Google Drive\Other\Code\KrankType\CullCat\obj\Release\CullCat.csprojResolveAssemblyReference.cache
-C:\Users\MTOBOLOV\Google Drive\Other\Code\KrankType\CullCat\obj\Release\CullCat.exe
-C:\Users\MTOBOLOV\Google Drive\Other\Code\KrankType\CullCat\obj\Release\CullCat.pdb

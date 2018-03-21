@@ -1,9 +1,0 @@
-C:\Users\C\Google Drive\Other\Code\KrankType\Krank Type\PaintME\bin\Debug\PaintME.exe.config
-C:\Users\C\Google Drive\Other\Code\KrankType\Krank Type\PaintME\bin\Debug\PaintME.exe
-C:\Users\C\Google Drive\Other\Code\KrankType\Krank Type\PaintME\bin\Debug\PaintME.pdb
-C:\Users\C\Google Drive\Other\Code\KrankType\Krank Type\PaintME\obj\Debug\PaintME.csprojResolveAssemblyReference.cache
-C:\Users\C\Google Drive\Other\Code\KrankType\Krank Type\PaintME\obj\Debug\PaintME.Form1.resources
-C:\Users\C\Google Drive\Other\Code\KrankType\Krank Type\PaintME\obj\Debug\PaintME.Properties.Resources.resources
-C:\Users\C\Google Drive\Other\Code\KrankType\Krank Type\PaintME\obj\Debug\PaintME.csproj.GenerateResource.Cache
-C:\Users\C\Google Drive\Other\Code\KrankType\Krank Type\PaintME\obj\Debug\PaintME.exe
-C:\Users\C\Google Drive\Other\Code\KrankType\Krank Type\PaintME\obj\Debug\PaintME.pdb
